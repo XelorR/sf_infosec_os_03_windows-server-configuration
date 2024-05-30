@@ -60,7 +60,7 @@ Imagine you are an information security engineer at the Moscow Traffic Control C
 
 - [x] SQL server installed
 - [x] SSMS installed
-- [x] role assigned for created use
+- [x] role assigned for created user
 - [x] connected to server via SSMS
 - [x] database created
 - [x] table created
